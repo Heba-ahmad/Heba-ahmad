@@ -10,9 +10,7 @@
 - Git & GitHub
 
 ## 🎯 What I'm Building
-I'm exploring the intersection of software development, AI, and automation, with a focus on building practical solutions using code, APIs, AI tools, and workflow automation.
-
-My goal is to turn ideas and real-world problems into useful, reliable solutions and build a strong portfolio through hands-on projects.
+Exploring software development, AI, and Automation, through hands-on projects, with a focus on turning ideas and real-world problems into practical solutions.
 
 ## 📚 Learning & Building
 I'm documenting my projects, experiments, and technical learning here as I develop my skills in:
