@@ -20,7 +20,7 @@ I'm documenting my projects, experiments, and technical learning here as I devel
 ## 🚀 Projects
 This section will grow as I build and document new projects.
 
-## Earlier Projects
+### Earlier Projects
 My repositories include academic and learning projects from my previous studies, including:
 
 - Full Stack Web Development
