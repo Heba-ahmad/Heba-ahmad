@@ -1,8 +1,5 @@
-# 👋 Hi, I'm an IT professional passionate about building with code, AI, and automation. 
-### 🎓 **Bachelor of Information Technology** — **2010**
-### 💻 **Full Stack Web Developer Nanodegree** — **2019**
-
-I'm expanding my skills across software development, AI, and Automation, with a focus on building practical, real-world solutions.
+# About me 
+👋 Hi, I'm an IT professional with a background in Information Technology & Full Stack Web Development. I'm passionate about learning and building with code, while expanding my skills across software development, AI, and Automation to create practical, real-world solutions.
 
 ## 🌱 Areas of Focus
 - Python
