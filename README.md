@@ -13,20 +13,13 @@
 Exploring software development, AI, and Automation, through hands-on projects, with a focus on turning ideas and real-world problems into practical solutions.
 
 ## 📚 Learning & Building
-I'm documenting my projects, experiments, and technical learning here as I develop my skills in:
+I'm documenting my projects, experiments, and technical learning here as I develop my skills across:
 
 **Python → APIs → AI → n8n → Automation**
 
 ## 🚀 Projects
 This section will grow as I build and document new projects.
 
-### Earlier Projects
-My repositories include academic and learning projects from my previous studies, including:
 
-- Full Stack Web Development
-- Python
-- Web Development
-- Linux & Server Configuration
-- ASP
 ## 🌟 What's Next
-    Building practical projects, exploring AI-powered automation, and turning what I learn into real-world solutions.
+Exploring AI and automation, building practical projects, and turning what I learn into real-world solutions.
